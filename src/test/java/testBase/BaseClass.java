@@ -56,12 +56,7 @@ public class BaseClass {
 		driver.get(prop.getProperty("url"));
 		driver.manage().window().maximize();
 	}
-
-	@AfterClass
-	public void tearDown() {
-		driver.quit();
-	}
-
+	
 	public String randomString() {
 		String generatedstring = RandomStringUtils.randomAlphabetic(5);
 		return generatedstring;
@@ -77,5 +72,11 @@ public class BaseClass {
 		String generatednumber = RandomStringUtils.randomNumeric(10);
 		return (generatedstring + "@" + generatednumber);
 	}
+
+	@AfterClass
+	public void tearDown() {
+		driver.quit();
+	}
+
 
 }
