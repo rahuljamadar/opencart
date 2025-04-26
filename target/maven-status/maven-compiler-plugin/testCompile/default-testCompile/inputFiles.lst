@@ -6,4 +6,5 @@ C:\Users\Admin\eclipse-workspace\Opencart\src\test\java\pageObjects\MyAccountPag
 C:\Users\Admin\eclipse-workspace\Opencart\src\test\java\testBase\BaseClass.java
 C:\Users\Admin\eclipse-workspace\Opencart\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Users\Admin\eclipse-workspace\Opencart\src\test\java\testCases\TC002_LoginTest.java
+C:\Users\Admin\eclipse-workspace\Opencart\src\test\java\testCases\TC003_MyOrders.java
 C:\Users\Admin\eclipse-workspace\Opencart\src\test\java\utilities\ExtentReport.java
