@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC004_AddToCartTest">
+      <class name="testCases.TC003_AddProductToCartTest">
         <methods>
           <include name="tearDown"/>
           <include name="verifyProductAddToCart"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC004_AddToCartTest -->
+      </class> <!-- testCases.TC003_AddProductToCartTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [suite] -->

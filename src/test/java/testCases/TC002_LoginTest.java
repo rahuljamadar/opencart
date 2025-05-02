@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
+import pageObjects.SearchPage;
 import testBase.BaseClass;
 
 public class TC002_LoginTest extends BaseClass {

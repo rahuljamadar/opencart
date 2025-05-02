@@ -122,3 +122,219 @@
 2025-37-26 12:37:15.227 [main] INFO  testCases.TC003_SearchProductTest - **** Started TC003_SearchProductTest ****
 2025-37-26 12:37:16.613 [main] INFO  testCases.TC003_SearchProductTest - **** Finish TC003_SearchProductTest ****
 2025-37-26 12:37:26.840 [main] INFO  testCases.TC004_AddToCartTest - **** Started TC004_AddToCartTest ****
+2025-30-30 10:30:06.061 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-30-30 10:30:07.231 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-30-30 10:30:29.268 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-30-30 10:30:29.612 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-30-30 10:30:30.763 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-30-30 10:30:30.771 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-30-30 10:30:31.977 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-30-30 10:30:31.977 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-30-30 10:30:38.851 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-30-30 10:30:41.581 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-30-30 10:30:47.361 [main] INFO  testCases.TC003_SearchProductTest - **** Started TC003_SearchProductTest ****
+2025-30-30 10:30:48.510 [main] INFO  testCases.TC003_SearchProductTest - **** Finish TC003_SearchProductTest ****
+2025-34-30 10:34:06.697 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-34-30 10:34:07.761 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-34-30 10:34:15.564 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-34-30 10:34:15.837 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-34-30 10:34:16.970 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-34-30 10:34:16.985 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-34-30 10:34:18.013 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-34-30 10:34:18.013 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-34-30 10:34:26.304 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-34-30 10:34:28.666 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-34-30 10:34:35.952 [main] INFO  testCases.TC003_SearchProductTest - **** Started TC003_SearchProductTest ****
+2025-34-30 10:34:36.698 [main] INFO  testCases.TC003_SearchProductTest - **** Finish TC003_SearchProductTest ****
+2025-34-30 10:34:43.657 [main] INFO  testCases.TC004_AddToCartTest - **** Started TC004_AddToCartTest ****
+2025-39-30 10:39:46.821 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-39-30 10:39:47.863 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-39-30 10:39:54.790 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-39-30 10:39:55.038 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-39-30 10:39:56.478 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-39-30 10:39:56.491 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-39-30 10:39:57.586 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-39-30 10:39:57.587 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-40-30 10:40:03.071 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-40-30 10:40:31.758 [main] INFO  testCases.TC003_SearchProductTest - **** Started TC003_SearchProductTest ****
+2025-40-30 10:40:32.595 [main] INFO  testCases.TC003_SearchProductTest - **** Finish TC003_SearchProductTest ****
+2025-40-30 10:40:37.699 [main] INFO  testCases.TC004_AddToCartTest - **** Started TC004_AddToCartTest ****
+2025-06-30 11:06:54.381 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-06-30 11:06:55.666 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-07-30 11:07:06.720 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-07-30 11:07:06.962 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-07-30 11:07:08.181 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-07-30 11:07:08.195 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-07-30 11:07:09.254 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-07-30 11:07:09.255 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-07-30 11:07:17.622 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-07-30 11:07:20.038 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-07-30 11:07:28.839 [main] INFO  testCases.TC003_SearchProductTest - **** Started TC003_SearchProductTest ****
+2025-07-30 11:07:29.850 [main] INFO  testCases.TC003_SearchProductTest - **** Finish TC003_SearchProductTest ****
+2025-07-30 11:07:36.497 [main] INFO  testCases.TC004_AddToCartTest - **** Started TC004_AddToCartTest ****
+2025-11-30 11:11:01.644 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-11-30 11:11:02.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-11-30 11:11:11.152 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-11-30 11:11:11.355 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-11-30 11:11:12.297 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-11-30 11:11:12.321 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-11-30 11:11:13.328 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-11-30 11:11:13.332 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-11-30 11:11:18.902 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-11-30 11:11:21.107 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-11-30 11:11:26.183 [main] INFO  testCases.TC003_SearchProductTest - **** Started TC003_SearchProductTest ****
+2025-11-30 11:11:26.954 [main] INFO  testCases.TC003_SearchProductTest - **** Finish TC003_SearchProductTest ****
+2025-11-30 11:11:31.855 [main] INFO  testCases.TC004_AddToCartTest - **** Started TC004_AddToCartTest ****
+2025-18-30 11:18:21.554 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-18-30 11:18:22.576 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-18-30 11:18:31.732 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-18-30 11:18:31.979 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-18-30 11:18:32.878 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-18-30 11:18:32.891 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-18-30 11:18:33.932 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-18-30 11:18:33.933 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-18-30 11:18:39.387 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-18-30 11:18:41.816 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-18-30 11:18:46.654 [main] INFO  testCases.TC003_SearchProductTest - **** Started TC003_SearchProductTest ****
+2025-18-30 11:18:47.768 [main] INFO  testCases.TC003_SearchProductTest - **** Finish TC003_SearchProductTest ****
+2025-21-30 11:21:14.069 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-21-30 11:21:15.277 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-21-30 11:21:25.263 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-21-30 11:21:25.519 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-21-30 11:21:26.399 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-21-30 11:21:26.412 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-21-30 11:21:27.361 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-21-30 11:21:27.361 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-21-30 11:21:33.531 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-21-30 11:21:36.456 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-21-30 11:21:41.493 [main] INFO  testCases.TC003_SearchProductTest - **** Started TC003_SearchProductTest ****
+2025-21-30 11:21:42.454 [main] INFO  testCases.TC003_SearchProductTest - **** Finish TC003_SearchProductTest ****
+2025-21-30 11:21:48.010 [main] INFO  testCases.TC004_AddToCartTest - **** Started TC004_AddToCartTest ****
+2025-33-30 12:33:39.470 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-33-30 12:33:40.635 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-33-30 12:33:55.388 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-33-30 12:33:55.679 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-33-30 12:33:56.795 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-33-30 12:33:56.808 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-33-30 12:33:57.808 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-33-30 12:33:57.808 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-34-30 12:34:03.994 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-34-30 12:34:06.587 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-34-30 12:34:12.717 [main] INFO  testCases.TC003_SearchProductTest - **** Started TC003_SearchProductTest ****
+2025-34-30 12:34:14.274 [main] INFO  testCases.TC003_SearchProductTest - **** Finish TC003_SearchProductTest ****
+2025-53-02 10:53:00.301 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-53-02 10:53:01.602 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-53-02 10:53:28.280 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-53-02 10:53:28.554 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-53-02 10:53:29.829 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-53-02 10:53:29.844 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-53-02 10:53:30.969 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-53-02 10:53:30.970 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-53-02 10:53:37.811 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-53-02 10:53:40.488 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-53-02 10:53:47.744 [main] INFO  testCases.TC003_SearchProductTest - **** Started TC003_SearchProductTest ****
+2025-53-02 10:53:48.458 [main] INFO  testCases.TC003_SearchProductTest - **** Finish TC003_SearchProductTest ****
+2025-56-02 11:56:41.084 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-57-02 11:57:13.739 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-58-02 11:58:04.163 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-00-02 12:00:22.447 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-00-02 12:00:23.540 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-00-02 12:00:47.769 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-00-02 12:00:48.044 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-00-02 12:00:49.144 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-00-02 12:00:49.156 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-00-02 12:00:50.184 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-00-02 12:00:50.185 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-00-02 12:00:55.619 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-00-02 12:00:57.964 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-01-02 12:01:03.472 [main] INFO  testCases.TC003_AddProductToCartTest - **** Started TC003_AddedProductToCartTest ****
+2025-03-02 12:03:47.872 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-03-02 12:03:48.995 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-04-02 12:04:03.255 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-04-02 12:04:03.457 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-04-02 12:04:05.578 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-04-02 12:04:05.594 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-04-02 12:04:06.597 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-04-02 12:04:06.597 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-04-02 12:04:21.716 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-04-02 12:04:24.406 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-04-02 12:04:32.175 [main] INFO  testCases.TC003_AddProductToCartTest - **** Started TC003_AddedProductToCartTest ****
+2025-32-02 12:32:22.195 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-32-02 12:32:23.210 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-32-02 12:32:45.303 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-32-02 12:32:45.545 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-32-02 12:32:46.870 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-32-02 12:32:46.895 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-32-02 12:32:48.142 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-32-02 12:32:48.142 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-32-02 12:32:53.515 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-32-02 12:32:56.071 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-33-02 12:33:01.115 [main] INFO  testCases.TC003_AddProductToCartTest - **** Started TC003_AddedProductToCartTest ****
+2025-44-02 12:44:37.276 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-44-02 12:44:38.369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-44-02 12:44:49.892 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-44-02 12:44:50.159 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-44-02 12:44:51.608 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-44-02 12:44:51.626 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-44-02 12:44:52.696 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-44-02 12:44:52.696 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-44-02 12:44:58.501 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-45-02 12:45:01.179 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-45-02 12:45:07.199 [main] INFO  testCases.TC003_AddProductToCartTest - **** Started TC003_AddedProductToCartTest ****
+2025-48-02 13:48:39.521 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-48-02 13:48:40.600 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-49-02 13:49:15.977 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-49-02 13:49:17.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-50-02 13:50:08.897 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-50-02 13:50:09.167 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-50-02 13:50:13.767 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-50-02 13:50:13.779 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-50-02 13:50:14.743 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-50-02 13:50:14.744 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-50-02 13:50:23.573 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-50-02 13:50:26.442 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-50-02 13:50:38.054 [main] INFO  testCases.TC003_AddProductToCartTest - **** Started TC003_AddedProductToCartTest ****
+2025-54-02 13:54:07.014 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\Opencart\testng.xml"
+2025-54-02 13:54:08.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\Opencart\testng.xml
+
+2025-54-02 13:54:14.998 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+2025-54-02 13:54:15.243 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount link ****
+2025-54-02 13:54:16.606 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+2025-54-02 13:54:16.617 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+2025-54-02 13:54:17.538 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2025-54-02 13:54:17.539 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finish TC001_AccountRegistrationTest **** 
+2025-54-02 13:54:23.730 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LogintTest ****
+2025-54-02 13:54:26.345 [main] INFO  testCases.TC002_LoginTest - **** Finish TC002_LogintTest ****
+2025-54-02 13:54:32.984 [main] INFO  testCases.TC003_AddProductToCartTest - **** Started TC003_AddedProductToCartTest ****
+2025-54-02 13:54:35.221 [main] INFO  testCases.TC003_AddProductToCartTest - **** Finish TC003_AddedProductToCartTest ****
